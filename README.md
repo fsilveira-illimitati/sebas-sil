@@ -6,8 +6,9 @@ Um desenvolvedor back-end focado em desempenho, controle e automação.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebas-sil)](https://www.linkedin.com/in/sebas-sil) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sebas.sil@gmail.com)](mailto:sebas.sil@gmail.com)
+[![GitLab Badge](https://img.shields.io/badge/-GitLab-2f2a6b?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/sebas.sil)](https://gitlab.com/sebas.sil)
 
-Mais sobre meus projetos recentes? Tente no [meu GitLab](https://gitlab.com/sebas.sil) 
+Mais sobre meus projetos recentes? Tente no [![GitLab Badge](https://docs.gitlab.com/assets/images/gitlab-logo.svg)](https://gitlab.com/sebas.sil)
 
 - ⚡ Fun fact: ...
 
